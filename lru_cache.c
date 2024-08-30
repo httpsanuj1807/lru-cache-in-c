@@ -79,7 +79,6 @@ void delete_from_tail(){
     }
     else{
         printf("STATUS : SUCCESS (eviction successfull)\n");
-        free(temp);
     }
     
 }
